@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-peopleconnect",
+  "version": "0.0.0",
+  "description": "PeopleConnect shareable ESLint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peopleconnectus/eslint-config-peopleconnect.git"
+  },
+  "author": "Kelly Selden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peopleconnectus/eslint-config-peopleconnect/issues"
+  },
+  "homepage": "https://github.com/peopleconnectus/eslint-config-peopleconnect#readme",
+  "peerDependencies": {
+    "eslint-config-sane": "^0.4.1"
+  }
+}
