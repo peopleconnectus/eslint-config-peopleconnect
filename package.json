@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-peopleconnect",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "PeopleConnect shareable ESLint config",
   "main": "index.js",
   "repository": {
