@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/eslint-config-peopleconnect.svg)](https://badge.fury.io/js/eslint-config-peopleconnect)
 
-PeopleConnect shareable ESLint config
+[PeopleConnect](http://peopleconnect.us/) shareable [ESLint](https://eslint.org/) config
 
 ### Installation
 
